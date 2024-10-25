@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Uts_NofiaZuriatin</string>
+    <string name="textview">Selamat Datang Di Aplikasi NOFIA ZURIATIN !</string>
+    <string name="btnhasil">hitung</string>
+    <string name="clear">Clear</string>
+    <string name="textv">Text View</string>
+</resources>
